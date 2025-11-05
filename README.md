@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hanif Bajri
 
-<!--
-**hanifbajri7002-ops/hanifbajri7002-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Informatics student at **Telkom University**, passionate about technology, data, and innovation.  
+💻 I love exploring new programming languages, building real-world projects, and sharing what I learn.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests
+- Programming: Go
+- Web Development: HTML
+- Data & AI: 
+- Tools: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- 
+
+## 🧠 Projects
+Here are some things I’ve been working on:
+-
+
+## 📫 Let's Connect
+- LinkedIn:(https://www.linkedin.com/in/hanif-bajri-234643390/)
+- Instagram: (https://www.instagram.com/hnf_7002?igsh=bmdnYmhmdDVvNjRs)
+
+⭐ *"Keep learning, keep building, and stay curious!"*
